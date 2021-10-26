@@ -15,7 +15,9 @@ Nähere Infos zur Organisation der Übungen findet ihr
 
 |   | Nachname | Vorname | Matrikelnummer | Studienfach | Studiengang (B.Sc., M.Sc, ...) | Forum Username | Studentische E-Mail       |
 |---|----------|---------|----------------|-------------|--------------------------------|----------------|---------------------------|
-| 1.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
+| 1.|  Erciyes | Sara    |   5560277      |Informatik   |    B.Sc.                       |  saraerciyes   | sara.erciyes@student.uni-tuebingen.de |
+
+
 | 2.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
   
 # Punktestand (wird von Tutoren angepasst)
